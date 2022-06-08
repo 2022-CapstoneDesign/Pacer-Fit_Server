@@ -1,0 +1,6 @@
+{
+
+  "require" : {
+    "phpjuice/slopeone": "v2.0.1"
+  }
+}
